@@ -34,6 +34,13 @@ on:
         type: boolean
         description: 'whether to notify through pushplus'
         default: 'false'
+ 
+ 
+#点☆Star触发开始编译
+  watch:
+    types: started
+    
+    
 env:
   REPOSITORY_URL: https://github.com/vb1980/Padavan-KVR.git
   TOOLCHAIN_URL: https://github.com/hanwckf/padavan-toolchain/releases/download/v1.1/mipsel-linux-uclibc.tar.xz
