@@ -1,4 +1,4 @@
-name: Build CR660x from vb1980 kvr repo
+name: Build JCG-Q20 from vb1980 kvr repo
 
 on: 
   workflow_dispatch:
