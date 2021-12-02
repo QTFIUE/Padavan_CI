@@ -1,4 +1,4 @@
-name: Build MSG1500-7615 from hanwckf repo
+name: Build MSG1500-7615 from vb1980 repo
 
 on: 
   workflow_dispatch:
